@@ -1,42 +1,18 @@
-# graphql-practice
+# GraphQL Practice
 
-Node.js + Apollo Server + GraphQL の練習プロジェクトです。
+## Overview
 
-## 学習内容
+This is a practice project for learning Node.js, Apollo Server, GraphQL, TypeScript, and Git operations.
 
-- Node.js
-- Apollo Server
-- GraphQL Schema
-- Query
-- Mutation
-- Resolver
-- Arguments
-- CRUD
+## Technologies
 
-## 機能
-
-- users：ユーザー一覧取得
-- user(id)：IDでユーザー取得
-- addUser：ユーザー追加
-- deleteUser：ユーザー削除
-- updateUser：ユーザー更新
-
-## 使用技術
-
-- JavaScript
 - Node.js
 - Apollo Server
 - GraphQL
+- TypeScript
+- Git / GitHub
 
-## 実行方法
+## Setup
 
 ```bash
 npm install
-node index.js
-```
-
-Apollo Sandbox:
-
-```text
-http://localhost:4000
-```
