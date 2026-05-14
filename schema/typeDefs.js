@@ -3,6 +3,7 @@ const typeDefs = `#graphql
     id: ID
     name: String
     age: Int
+    gender: String
   }
 
   type Query {
